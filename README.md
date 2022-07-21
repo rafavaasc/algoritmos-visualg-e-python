@@ -1,1 +1,2 @@
-# algoritmos-visualg-e-python
+# algoritmos-visualg-e-python 
+Um repositório de três simples algoritmos.
